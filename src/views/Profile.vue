@@ -3,6 +3,8 @@
     class="mx-auto"
     max-width="344"
     outlined
+    style="overflow-y: scroll;
+        height: 87vh; position: inherit;"
   >
     <v-list-item three-line>
       <v-list-item-content>

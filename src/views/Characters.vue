@@ -2,7 +2,7 @@
   <div>
     <v-card
       style="overflow-y: scroll;
-    height: 87vh;"
+        height: 87vh; position: inherit;"
     >
       <v-list v-if="!fullchar">
         <v-list-item-group active-class="pink--text" multiple>
